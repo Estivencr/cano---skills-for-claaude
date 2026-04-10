@@ -1,4 +1,4 @@
-# natram-skills
+# Cano-skills
 
 Personal Claude skills library — custom instructions that extend Claude's capabilities for specific workflows.
 
