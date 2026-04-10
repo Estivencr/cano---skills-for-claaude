@@ -5,7 +5,7 @@ Personal Claude skills library — custom instructions that extend Claude's capa
 ## Structure
 
 ```
-natram-skills/
+cano-skills/
 ├── frontend/
 │   ├── landing-page-builder/   # Full landing pages & multi-section sites
 │   ├── ui-components/          # Reusable UI components (cards, modals, navbars…)
